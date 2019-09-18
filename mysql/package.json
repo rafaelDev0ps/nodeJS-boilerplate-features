@@ -1,0 +1,20 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "MongoDB issue directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "nodeJS"
+  ],
+  "author": "rafamttz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "sequelize": "^5.18.4"
+  }
+}
